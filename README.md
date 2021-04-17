@@ -6,9 +6,8 @@ Two different architectures were trained, one using [MSE Loss](https://pytorch.o
 The process of data recollection is explained in [this](https://github.com/diegoasn/spb-tweets) repository.
 
 ## Content
-Include the following directories:
-* `data`: contains all memes from training and testing datasets.
-* `models`: contains trained models.  
+* [`data`](https://anonfiles.com/90Z286r4u1/data_zip): contains all memes from training and testing datasets.
+* [`models`](): contains trained models.  
 
 ## Technologies
 * Python v3.7
@@ -17,5 +16,7 @@ Include the following directories:
 * sklearn
 * matplotlib
 * pandas
+
+**The data and model folders must be in the same directory as the notebooks**.  
 
 **Note**: You will need a CUDA compatible GPU. 
