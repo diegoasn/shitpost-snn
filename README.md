@@ -7,7 +7,7 @@ The process of data recollection is explained in [this](https://github.com/diego
 
 ## Content
 * [`data`](https://anonfiles.com/90Z286r4u1/data_zip): contains all memes from training and testing datasets.
-* [`models`](): contains trained models.  
+* [`models`](https://anonfiles.com/r3C291r6u5/models_zip): contains trained models.  
 
 ## Technologies
 * Python v3.7
